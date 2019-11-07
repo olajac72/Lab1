@@ -1,0 +1,10 @@
+Hi
+I spent aprox. 4 hrs. doing the assignments.
+I am used to C and C#, I used to work with them at my previous work
+so I think it was quite easy.
+I watched the video configuring github and think it was good.
+Its a bit of a threshhold beginning with C++ but once you are over it its great fun programming.
+I am learning most of my programming through websites such as stackoverflow and codeproject.
+Maybe you could inform about that.
+
+Happy coding!
